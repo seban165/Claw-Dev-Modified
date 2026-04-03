@@ -1,4 +1,6 @@
-# Claw Dev
+# Claw Dev Modified
+<img width="1468" height="527" alt="image" src="https://github.com/user-attachments/assets/c44a713b-a23c-403d-89ec-5e77d3c40eba" />
+
 
 Claw Dev is a local multi-provider coding assistant launcher for the bundled terminal client in this repository. It gives you one entry point and lets you choose how model requests are resolved at startup:
 
